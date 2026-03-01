@@ -1,0 +1,9 @@
+# System dependency (install via brew): brew install sox
+qwen-tts
+faster-whisper
+anthropic
+gradio>=4.0
+soundfile
+torch
+numpy
+python-dotenv
